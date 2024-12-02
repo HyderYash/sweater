@@ -95,7 +95,7 @@ export default function Home() {
               Sweater Day! 💝
             </h1>
             <p className="text-xl font-handwriting text-emerald-200 italic">
-              December 3rd, 2023
+              December 3rd, 2024
             </p>
           </motion.div>
 
